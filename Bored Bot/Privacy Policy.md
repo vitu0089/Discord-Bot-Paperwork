@@ -1,6 +1,6 @@
-## Bored Bot - Privacy Policy - 05-08-2023
+# Bored Bot - Privacy Policy - 05-08-2023
 
-#Servers (Guilds)
+## Servers (Guilds)
 All server data saved includes but is not limited to:
 ```
 	1. Name
@@ -8,5 +8,5 @@ All server data saved includes but is not limited to:
 	3. Other Settings (Like AllowOverlord or GuildColor)
 ```
 
-# Storage Location
+## Storage Location
 All data is stored on the server, and is protected by the security of the company "Plox Host".
