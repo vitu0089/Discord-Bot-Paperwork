@@ -1,4 +1,4 @@
-##Bored Bot - Terms of Service
+# Bored Bot - Terms of Service
 
 This discord bot requires you to comply the discord terms of service. It's also disallowed to use any kind of automation to abuse
 the discord bot.
