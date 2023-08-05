@@ -2,14 +2,17 @@
 
 ## Players
 The data saved is limited to that which will make the bot run smoothly. This includes, but is not limited to:
+```
 	1. Points
 	2. Discord ID (Easier, and safer, than coming up with an ID myself)
 	3. Tokens
 	4. If a tutorial has been offered or not
+```
 	
 
 ## Servers (Guilds)
 All server data saved includes but is not limited to:
+```
 	1. Points
 	2. Server name
 	3. Discord ID
@@ -20,6 +23,7 @@ All server data saved includes but is not limited to:
 	6. Register date
 	7. Leaderboard preference
 	8. Session ID (In the case there is a session running)
+```
 
 ## Storage Location
 All data is stored on the server, and is protected by the security of the company "Plox Host".
