@@ -6,6 +6,7 @@ All server data saved includes but is not limited to:
 	1. Name
 	2. Restricted Channel (If one is set)
 	3. Other Settings (Like AllowOverlord or GuildColor)
+	4. Chatbot Settings
 ```
 
 ## Storage Location
